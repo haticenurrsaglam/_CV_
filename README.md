@@ -4,7 +4,7 @@ This project is a personal resume (CV) presentation designed as a website. It wa
 
 ## Live Demo
 
-You can visit the live site here: [HATİCE NUR SAĞLAM - CV](https://haticenurrsaglam.github.io/_CV_/)
+You can visit the live site here: [HATİCE NUR SAĞLAM - CV](https://haticenurrsaglam.github.com/_CV_/)
 
 ---
 
