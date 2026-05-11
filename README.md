@@ -40,10 +40,3 @@ Programming languages (Java, C, Python), tools, core concepts I specialize in, a
 * **Education:** Karabük University - B.Sc. in Computer Engineering
 * **Project Category:** Web Development, Portfolio
 
-## Installation and Usage
-
-To examine the code or run it on your local machine:
-
-1. Clone this repository: 
-   `git clone https://github.com/haticenurrsaglam/_CV_.git`
-2. Open the `index.html` file in your browser.
