@@ -2,10 +2,6 @@
 
 This project is a personal resume (CV) presentation designed as a website. It was developed using HTML and CSS.
 
-## Live Demo
-
-You can visit the live site here: [HATİCE NUR SAĞLAM - CV](https://haticenurrsaglam.github.com/_CV_/)
-
 ---
 
 ### 1. Introduction and Contact Information
