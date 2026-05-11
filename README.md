@@ -4,7 +4,7 @@ This project is a personal resume (CV) presentation designed as a website. It wa
 
 ## Live Demo
 
-You can visit the live site here: [HATİCE NUR SAĞLAM - CV]()
+You can visit the live site here: [HATİCE NUR SAĞLAM - CV](https://haticenurrsaglam.github.io/_CV_/)
 
 ---
 
@@ -13,27 +13,27 @@ You can visit the live site here: [HATİCE NUR SAĞLAM - CV]()
 This section includes basic contact information, a professional summary, and educational background.
 
 <div align="center">
-  <img src="screenshot-header.png" alt="Header and Summary" width="600">
+  <img src="screenshot-header.png" alt="Header and Summary" width="800">
 </div>
 
 ---
 
 ### 2. Projects
 
-You can find my software projects and TEKNOFEST 2026 UAV team details in this section.
+You can find my software projects, such as the Java ATM Simulation, and TEKNOFEST 2026 UAV team details in this section.
 
 <div align="center">
-  <img src="screenshot-projects.png" alt="Projects" width="600">
+  <img src="screenshot-projects.png" alt="Projects" width="800">
 </div>
 
 ---
 
 ### 3. Technical Skills and Interests
 
-Programming languages, tools, core concepts I specialize in, and my personal interests.
+Programming languages (Java, C, Python), tools, core concepts I specialize in, and my personal interests.
 
 <div align="center">
-  <img src="screenshot-skills-interests.png" alt="Skills and Interests" width="600">
+  <img src="screenshot-skills-interests.png" alt="Skills and Interests" width="800">
 </div>
 
 ---
@@ -49,5 +49,5 @@ Programming languages, tools, core concepts I specialize in, and my personal int
 To examine the code or run it on your local machine:
 
 1. Clone this repository: 
-   `git clone REPO_LINKINI_BURAYA_YAZIN`
+   `git clone https://github.com/haticenurrsaglam/_CV_.git`
 2. Open the `index.html` file in your browser.
